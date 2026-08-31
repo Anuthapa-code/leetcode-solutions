@@ -10,6 +10,7 @@ My Leetcode solutions
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anuthapa-code/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Anuthapa-code/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/Anuthapa-code/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0457-circular-array-loop](https://github.com/Anuthapa-code/leetcode-solutions/tree/master/0457-circular-array-loop) |
 ## Two Pointers
 |  |
 | ------- |
@@ -20,6 +21,7 @@ My Leetcode solutions
 | [0202-happy-number](https://github.com/Anuthapa-code/leetcode-solutions/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Anuthapa-code/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Anuthapa-code/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0457-circular-array-loop](https://github.com/Anuthapa-code/leetcode-solutions/tree/master/0457-circular-array-loop) |
 | [0876-middle-of-the-linked-list](https://github.com/Anuthapa-code/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Binary Search
 |  |
@@ -41,6 +43,7 @@ My Leetcode solutions
 | [0141-linked-list-cycle](https://github.com/Anuthapa-code/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Anuthapa-code/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Anuthapa-code/leetcode-solutions/tree/master/0202-happy-number) |
+| [0457-circular-array-loop](https://github.com/Anuthapa-code/leetcode-solutions/tree/master/0457-circular-array-loop) |
 ## Linked List
 |  |
 | ------- |
@@ -55,6 +58,7 @@ My Leetcode solutions
 | [0142-linked-list-cycle-ii](https://github.com/Anuthapa-code/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Anuthapa-code/leetcode-solutions/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/Anuthapa-code/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0457-circular-array-loop](https://github.com/Anuthapa-code/leetcode-solutions/tree/master/0457-circular-array-loop) |
 ## Bit Manipulation
 |  |
 | ------- |
