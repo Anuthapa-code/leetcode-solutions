@@ -14,6 +14,7 @@ My Leetcode solutions
 | [0287-find-the-duplicate-number](https://github.com/Anuthapa-code/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0457-circular-array-loop](https://github.com/Anuthapa-code/leetcode-solutions/tree/master/0457-circular-array-loop) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Anuthapa-code/leetcode-solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Anuthapa-code/leetcode-solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Two Pointers
 |  |
 | ------- |
@@ -92,4 +93,5 @@ My Leetcode solutions
 | [0053-maximum-subarray](https://github.com/Anuthapa-code/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/Anuthapa-code/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Anuthapa-code/leetcode-solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Anuthapa-code/leetcode-solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 <!---LeetCode Topics End-->
