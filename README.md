@@ -13,6 +13,7 @@ My Leetcode solutions
 | [0209-minimum-size-subarray-sum](https://github.com/Anuthapa-code/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/Anuthapa-code/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0457-circular-array-loop](https://github.com/Anuthapa-code/leetcode-solutions/tree/master/0457-circular-array-loop) |
+| [0724-find-pivot-index](https://github.com/Anuthapa-code/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Anuthapa-code/leetcode-solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Anuthapa-code/leetcode-solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Two Pointers
@@ -41,6 +42,7 @@ My Leetcode solutions
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Anuthapa-code/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0724-find-pivot-index](https://github.com/Anuthapa-code/leetcode-solutions/tree/master/0724-find-pivot-index) |
 ## Hash Table
 |  |
 | ------- |
