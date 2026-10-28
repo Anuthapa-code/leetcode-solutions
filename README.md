@@ -15,6 +15,7 @@ My Leetcode solutions
 | [0457-circular-array-loop](https://github.com/Anuthapa-code/leetcode-solutions/tree/master/0457-circular-array-loop) |
 | [0560-subarray-sum-equals-k](https://github.com/Anuthapa-code/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Anuthapa-code/leetcode-solutions/tree/master/0724-find-pivot-index) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Anuthapa-code/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Anuthapa-code/leetcode-solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Anuthapa-code/leetcode-solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Two Pointers
@@ -45,6 +46,7 @@ My Leetcode solutions
 | [0209-minimum-size-subarray-sum](https://github.com/Anuthapa-code/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Anuthapa-code/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Anuthapa-code/leetcode-solutions/tree/master/0724-find-pivot-index) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Anuthapa-code/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -53,6 +55,7 @@ My Leetcode solutions
 | [0202-happy-number](https://github.com/Anuthapa-code/leetcode-solutions/tree/master/0202-happy-number) |
 | [0457-circular-array-loop](https://github.com/Anuthapa-code/leetcode-solutions/tree/master/0457-circular-array-loop) |
 | [0560-subarray-sum-equals-k](https://github.com/Anuthapa-code/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Anuthapa-code/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Linked List
 |  |
 | ------- |
